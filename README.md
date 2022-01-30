@@ -17,15 +17,17 @@ A Powerful Group Management Bot
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
 
-<p align="center"><a href="https://t.me/WhiteTharukzBots"><img src="https://telegra.ph/file/23448c98735bd81df47e7.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/WhiteTharukzBots"><img src="https://telegra.ph/file/368510ae986435f5e624b.jpg" width="400"></a></p>
 
 
 > ⭐️ Thanks to everyone who starred White Tharukz, That is the greatest pleasure we have !
 
 # ❤️ Support
-<a href="https://t.me/WhiteTharukzBots"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/WhiteTharukz"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
-<a href="https://t.me/WhiteTharukzBots"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/WhiteTharukzBots"><https://img.shields.io/youtube/channel/subscribers/UCQRO2A9AGhhpD7CL77iEqiQl?color=Red&label=Youtube&logo=Youtube&logoColor=Black&style=for-the-badge"></a>
+
+<a href="https://www.youtube.com/c/TharukzGaming"><img src="
 
 ### Mandatory Vars 📒
 ```
@@ -43,6 +45,8 @@ A Powerful Group Management Bot
     [-] REDIS_PORT: At the end of uri
     [-] REDIS_PASS: pass
 [+] The White Tharukz won't run without setting the mandatory vars.
+
+
 
 Special thanks to you for using bot
 
