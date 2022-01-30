@@ -25,7 +25,7 @@ A Powerful Group Management Bot
 # ❤️ Support
 <a href="https://t.me/WhiteTharukz"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
-<a href="https://t.me/WhiteTharukzBots"><https://img.shields.io/youtube/channel/subscribers/UCQRO2A9AGhhpD7CL77iEqiQl?color=Red&label=Youtube&logo=Youtube&logoColor=Black&style=for-the-badge"></a>
+<a href="https://t.me/WhiteTharukzBots"><https://img.shields.io/static/v1?label=YouTube&message=Channel&color=red>"></a>
 
 <a href="https://www.youtube.com/c/TharukzGaming"><img src="
 
