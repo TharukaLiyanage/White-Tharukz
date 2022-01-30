@@ -1,0 +1,3 @@
+files:
+  - source: White Tharukz/localization/en.yaml
+    translation: /**/White Tharukz/localization/%locale_with_underscore%.yaml
